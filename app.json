@@ -12,9 +12,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/hackelite01/TerminalBot",
-  "success_url": "https://telegram.dog/mayank1rajput",
-  "website": "https://github.com/hackelite01/TerminalBot",
+  "repository": "https://github.com/ComradeDear/TerminalBot",
+  "success_url": "https://t.me/BotsHubz",
+  "website": "https://github.com/ComradeDear/TerminalBot",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable env mode",
